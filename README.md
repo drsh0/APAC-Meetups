@@ -37,6 +37,7 @@ Meetups by Region
 | [FWOTM](https://www.meetup.com/en-AU/Cyber-Risk-in-Sydney/events/241194692/) | First Wednesday of the Month |  Social drinks and get-to-know the other professionals in your industry. | Sydney region (location visible to members) |
 | [SECedu](https://sec.edu.au/) | Random |  SECedu is a learning and teaching community of security engineering tertiary students, academics and professionals. Events are hosted sporadically for all experience levels. For students, join the [SECedu slack](https://seceduau.slack.com/signup) and [subscribe](https://sec.edu.au/subscribe/) to the event mailing list to get involved in the community. For professionals, if you would like to run a workshop or get involved with teaching security at UNSW, send your interest to secedu@unsw.edu.au | Sydney, often at UNSW |
 | [NepSec Sydney](https://facebook.com/nepsecsyd/) | First Thursday of the Month | NepSec Sydney started from Jan,2019 as an initiation of helping all the Nepalese people residing in Sydney,Australia to get started into the amazing field of information security. We realised that there were very less number of infosec professionals originating from Nepal here in Australia so this is there just to fill this gap and increase this number as well as create a good network of Nepalese security enthusiasts. Sessions delivered in Nepalese + English mix so as to facilitate the attendees to understand the context properly. For Nepalese, if you wan't to join our slack, please message our [facebook page](https://facebook.com/nepsecsyd) | Sydney, Often at Bugcrowd Sydney's Office |
+| [Zero Days Sydney](https://www.meetup.com/Zero-Days/) | Third Tuesday of each month | This meetup is targeted to cover topics within the sphere of Security across the Information Technology domain. They welcome anyone who is interested in their meetup; be that a passing interest, a professional interest or somewhere in between. | CBD, Sydney |
 
 
 #### Queensland
@@ -47,6 +48,7 @@ Meetups by Region
 | [SecTalks Toowoomba](https://sectalks.org/toowoomba)	| First meetup is Nov 8th	| TBD | SecTalks is a non-profit session for technical security talks, and hands-on security challenges! A forum to learn & discuss technical (in)security stuff. |
 | [OWASP Brisbane](https://www.owasp.org/index.php/Brisbane) |              	| Best effort | OWASP Foundation (Overview Slides) is a professional association of global members and is open to anyone interested in learning more about software security. |
 | [Brisbane Cyber Security Meetup](https://www.meetup.com/meetup-group-aGFkzPMT/)| Last Tuesday| Monthly | This is a group for anyone interested in cyber security, security needs of major corporations, and those developing disruptive technologies for this sector. |
+
 
 #### South Australia
 
@@ -98,4 +100,3 @@ Meetups by Region
 | Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
 |-------------	| --------------	|-------------------	|--------|
 | [Null Chapter Delhi + OWASP meet (Combined)](https://null.co.in/chapters/2-delhi)  |  Best Effort | Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Delhi,India |
-
